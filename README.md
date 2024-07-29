@@ -2,7 +2,7 @@
 
 _Draft: **Statistical Methods**_
 
-_This draft is a guide in progress into Statistical Methods_
+_This draft is a living document of Statistical Methods & Computing_
 
 
 
